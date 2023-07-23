@@ -18,8 +18,8 @@ Passionate front-end developer with a focus on HTML, CSS, JavaScript, and React.
 
 
 
-🌱 I’m currently learning Next js, React Native
+💕 I’m currently learning Next js, React Native
 
 💬 Ask me about react, javascript
 
-📫 How to reach me madhushraba@gmail.com
+💌 Reach out to me @ madhushraba@gmail.com
